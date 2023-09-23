@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="61ef48051c534131ac242e2997af4c77" Name="Diagram1">
+        <EntityTypeShape EntityType="IPPEA_TESTModel.C__RefactorLog" Width="1.5" PointX="0.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.C_Zips" Width="1.5" PointX="7.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AddProductStyle" Width="1.5" PointX="0.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Addresses_Archive" Width="1.5" PointX="2.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Admin" Width="1.5" PointX="4.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Affiliate" Width="1.5" PointX="9.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AffiliateSetting" Width="1.5" PointX="9.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Announcement" Width="1.5" PointX="11.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNet_SqlCacheTablesForChangeNotification" Width="1.5" PointX="10.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetCustomer" Width="1.5" PointX="8.25" PointY="240.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetCustomers_Archive" Width="1.5" PointX="5.25" PointY="124.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetEmployee" Width="1.5" PointX="8.25" PointY="374" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetManufacturer" Width="1.5" PointX="8.25" PointY="83.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetPermissionCategory" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetPermission" Width="1.5" PointX="3" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetPermissionType" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetRole" Width="1.5" PointX="3.75" PointY="80.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetUserActivityLog" Width="1.5" PointX="11.25" PointY="79.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetUserActivityLog_Archive" Width="1.5" PointX="5.25" PointY="131.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetUserActivityType" Width="1.5" PointX="9" PointY="93.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetUserClaim" Width="1.5" PointX="8.25" PointY="87.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetUserLogin" Width="1.5" PointX="8.25" PointY="89.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetUserPermission" Width="1.5" PointX="8.25" PointY="43.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetUser" Width="1.5" PointX="6" PointY="76.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetUsers_Archive" Width="1.5" PointX="5.25" PointY="135.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AspNetVendor" Width="1.5" PointX="20.25" PointY="258.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.AttributeDetail" Width="1.5" PointX="11.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Attribute" Width="1.5" PointX="12.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Category" Width="1.5" PointX="6.75" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.CustomerPriceGroup" Width="1.5" PointX="12.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Customer" Width="1.5" PointX="13.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.CustomerSpecificPricing" Width="1.5" PointX="13.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Design" Width="1.5" PointX="13.75" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Discount" Width="1.5" PointX="14.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.ELMAH_Error" Width="1.5" PointX="8.75" PointY="15.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.EMailContent" Width="1.5" PointX="10.75" PointY="15.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.GiftWrap" Width="1.5" PointX="0.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.GroupSpecificationsTemp1" Width="1.5" PointX="15.75" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Image" Width="1.5" PointX="15.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Instruction" Width="1.5" PointX="15.75" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Inventory" Width="1.5" PointX="15.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.InventoryInfo" Width="1.5" PointX="16.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IP_DATA_HowToPageComments" Width="1.5" PointX="8.25" PointY="367.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IP_DATA_HowToPageComments_Archive" Width="1.5" PointX="5.25" PointY="149.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IP_DATA_HowToPageRatingRelation" Width="1.5" PointX="8.25" PointY="272" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IP_DATA_SecureLinkFiles" Width="1.5" PointX="12.75" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IP_DATA_SecureLinks" Width="1.5" PointX="17.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IP_DATA_SiteSettings" Width="1.5" PointX="17.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IP_DATA_UserNickNames" Width="1.5" PointX="8.25" PointY="384.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IP_DATA_UserNickNames_Archive" Width="1.5" PointX="5.25" PointY="155.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IP_DATA_Users" Width="1.5" PointX="17.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IP_DATA_WebOrder" Width="1.5" PointX="17.75" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_AccountsPayment" Width="1.5" PointX="22.5" PointY="371.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_AccountsPayment_Archive" Width="1.5" PointX="5.25" PointY="159.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_AccountSummary" Width="1.5" PointX="8.25" PointY="343" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_AccountSummary_Archive" Width="1.5" PointX="5.25" PointY="167.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Addresses" Width="1.5" PointX="15" PointY="410.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Addresses_Archive" Width="1.5" PointX="5.25" PointY="171" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_AdWordsGrouping" Width="1.5" PointX="11" PointY="95.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_AdWordsLabel" Width="1.5" PointX="5.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Affiliates" Width="1.5" PointX="18.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_AmazonOrders" Width="1.5" PointX="0.75" PointY="19.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ApiLog" Width="1.5" PointX="19.5" PointY="379.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ArticleCategory" Width="1.5" PointX="3.75" PointY="270.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_AuthNetSettings" Width="1.5" PointX="6.75" PointY="19.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_AuthNetTransLog" Width="1.5" PointX="8.25" PointY="424.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_AuthNetTransLog_Archive" Width="1.5" PointX="5.25" PointY="177.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_BannedIPAddresses" Width="1.5" PointX="8.75" PointY="19.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_BillingOptions" Width="1.5" PointX="17.25" PointY="398.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_BillingOptions_Archive" Width="1.5" PointX="5.25" PointY="184.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_BillMeLaterSettings" Width="1.5" PointX="19.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_BillMeLaterTransLog" Width="1.5" PointX="8.25" PointY="431" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_BillMeLaterTransLog_Archive" Width="1.5" PointX="5.25" PointY="190.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CallTag" Width="1.5" PointX="10.75" PointY="20.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Checkout" Width="1.5" PointX="12.75" PointY="447.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CheckoutItem" Width="1.5" PointX="18" PointY="453.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CheckoutItem_Archive" Width="1.5" PointX="5.25" PointY="195.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CheckoutItemProduct" Width="1.5" PointX="20.25" PointY="453.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CheckoutItemProduct_Archive" Width="1.5" PointX="5.25" PointY="200.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CheckoutShippingMethod" Width="1.5" PointX="15" PointY="457.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ConversationMessage" Width="1.5" PointX="8.25" PointY="79.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ConversationMessageMedia" Width="1.5" PointX="10.5" PointY="247.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ConversationOrderFormHeader" Width="1.5" PointX="25.5" PointY="374" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ConversationOrderGroup" Width="1.5" PointX="22.5" PointY="354.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ConversationProductMentions" Width="1.5" PointX="10.5" PointY="98.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ConversationProductMentions_Archive" Width="1.5" PointX="5.25" PointY="205" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ConversationQandAQuestion" Width="1.5" PointX="10.5" PointY="358" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ConversationReturn" Width="1.5" PointX="24.75" PointY="364" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ConversationSupportTicket" Width="1.5" PointX="9.75" PointY="546.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ConversationUserMentions" Width="1.5" PointX="13.5" PointY="80" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ConversationVendorMentions" Width="1.5" PointX="23.25" PointY="258.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CouponCodes" Width="1.5" PointX="15.75" PointY="443.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CouponCodes_Archive" Width="1.5" PointX="5.25" PointY="208.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CouponProducts" Width="1.5" PointX="18" PointY="278.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CouponProducts_Archive" Width="1.5" PointX="5.25" PointY="212.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Coupons" Width="1.5" PointX="15.75" PointY="461.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Coupons_Archive" Width="1.5" PointX="5.25" PointY="216.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CP_Bottlenecks" Width="1.5" PointX="19.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CP_Categories" Width="1.5" PointX="12.75" PointY="20.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CP_Comments" Width="1.5" PointX="14.75" PointY="20.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CP_CompanyProjects" Width="1.5" PointX="19.75" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CP_ExternalMember" Width="1.5" PointX="20.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CP_ProjectEmployees" Width="1.5" PointX="21.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CP_Team_Employee" Width="1.5" PointX="21.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_CP_Teams" Width="1.5" PointX="21.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Customer" Width="1.5" PointX="6" PointY="393.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Customer_Archive" Width="1.5" PointX="5.25" PointY="224.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_DataChangeLog" Width="1.5" PointX="21.75" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Dealer" Width="1.5" PointX="21.75" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_DealerServices" Width="1.5" PointX="22.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Departments" Width="1.5" PointX="0.75" PointY="374.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Documents" Width="1.5" PointX="8.25" PointY="434.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Documents_Archive" Width="1.5" PointX="5.25" PointY="232" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_DoItYourselfStory" Width="1.5" PointX="8.25" PointY="377.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_DoItYourselfStory_Archive" Width="1.5" PointX="5.25" PointY="243.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_DoItYourselfStoryProducts" Width="1.5" PointX="13.5" PointY="385" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_DoItYourselfStoryRatings" Width="1.5" PointX="10.5" PointY="383.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_DoItYourselfTools" Width="1.5" PointX="10.5" PointY="387" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_eBayListings" Width="1.5" PointX="8.25" PointY="103.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_eBayListings_Archive" Width="1.5" PointX="5.25" PointY="249.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_eBayLogs" Width="1.5" PointX="11.25" PointY="103.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_eBayLogs_Archive" Width="1.5" PointX="5.25" PointY="254.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_EbaySettings" Width="1.5" PointX="6.75" PointY="23.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_EmailAddress" Width="1.5" PointX="19.75" PointY="23.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_EmailAddress_Archive" Width="1.5" PointX="5.25" PointY="259.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_EmailAttachments" Width="1.5" PointX="21.75" PointY="409.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_EmailAttachments_Archive" Width="1.5" PointX="5.25" PointY="264.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_EmailAttachmentsLog" Width="1.5" PointX="19.5" PointY="373.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_EmailLog" Width="1.5" PointX="11.25" PointY="371.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_EmailLog_Archive" Width="1.5" PointX="5.25" PointY="276.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_EmailQueue" Width="1.5" PointX="19.5" PointY="406.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_EmailQueue_Archive" Width="1.5" PointX="5.25" PointY="283.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Employees" Width="1.5" PointX="3" PointY="361.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_EmployeeTypes" Width="1.5" PointX="21.75" PointY="23.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_FAQ" Width="1.5" PointX="2.75" PointY="24.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_FAQCategories" Width="1.5" PointX="23.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_FAQKeywordMap" Width="1.5" PointX="23.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_FAQKeywords" Width="1.5" PointX="23.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_FAQQuestionKeywords" Width="1.5" PointX="23.75" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_FAQSearches" Width="1.5" PointX="12.75" PointY="24.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Faxes" Width="1.5" PointX="14.75" PointY="24.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Feedback" Width="1.5" PointX="23.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_FeedbackType" Width="1.5" PointX="23.75" PointY="20.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_FileImports" Width="1.5" PointX="11.25" PointY="367.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_FonalityData" Width="1.5" PointX="23.75" PointY="23.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_FreightQuoteRequest" Width="1.5" PointX="10.5" PointY="652.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_FreightQuoteRequestItem" Width="1.5" PointX="24.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_GoogleAnalyticsOrderAcquisition" Width="1.5" PointX="16.75" PointY="25.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_GoogleNotifications" Width="1.5" PointX="25.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_GoogleRequests" Width="1.5" PointX="25.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_GoogleSettings" Width="1.5" PointX="8.75" PointY="26.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_HowToInformation" Width="1.5" PointX="17.25" PointY="394.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_HowToInformation_Archive" Width="1.5" PointX="5.25" PointY="293.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_HowToInformationMedia" Width="1.5" PointX="19.5" PointY="387.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_HowToPage" Width="1.5" PointX="6" PointY="270.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_HowToPage_Archive" Width="1.5" PointX="5.25" PointY="298.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_HowToPageMedia" Width="1.5" PointX="10.5" PointY="342.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_HowToPageProductRelation" Width="1.5" PointX="8.25" PointY="182.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_HowToPageProductRelation_Archive" Width="1.5" PointX="5.25" PointY="305" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_InvoicesToPrint" Width="1.5" PointX="25.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_MailUpBatchExport" Width="1.5" PointX="25.75" PointY="15.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_MailUpSubscriptionStatus" Width="1.5" PointX="25.75" PointY="18.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Manual" Width="1.5" PointX="6" PointY="87.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ManualProduct" Width="1.5" PointX="8.25" PointY="100.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ManualProduct_Archive" Width="1.5" PointX="5.25" PointY="308.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Manufacturer" Width="1.5" PointX="3.75" PointY="86.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_MarketingList" Width="1.5" PointX="14.25" PointY="401.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_MarketingList_Archive" Width="1.5" PointX="5.25" PointY="312" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Media" Width="1.5" PointX="8.25" PointY="409.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_MergeProduct" Width="1.5" PointX="11.25" PointY="379.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_MergeProduct_Archive" Width="1.5" PointX="5.25" PointY="320.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_MergeProductLog" Width="1.5" PointX="14.25" PointY="373.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_MergeProductLog_Archive" Width="1.5" PointX="5.25" PointY="328.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_NoteResponse" Width="1.5" PointX="25.75" PointY="22.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Notes" Width="1.5" PointX="21.75" PointY="26.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Notes_Archive" Width="1.5" PointX="5.25" PointY="333.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OnlineUser" Width="1.5" PointX="7.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OnlineUserCustomer_Archive" Width="1.5" PointX="10" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OrderAssignment" Width="1.5" PointX="14.25" PointY="367.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OrderCoupons" Width="1.5" PointX="18" PointY="551.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OrderCustomerReviewStatus" Width="1.5" PointX="10.5" PointY="656.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OrderFormHeader" Width="1.5" PointX="17.25" PointY="359.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OrderFormHeader_Archive" Width="1.5" PointX="5.25" PointY="365.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OrderFormLineItem" Width="1.5" PointX="25.5" PointY="366.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OrderFormLineItem_Archive" Width="1.5" PointX="5.25" PointY="342.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OrderGroup" Width="1.5" PointX="8.25" PointY="650" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OrderGroup_Archive" Width="1.5" PointX="5.25" PointY="349.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OutgoingFaxes" Width="1.5" PointX="8.25" PointY="439.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_OutgoingFaxes_Archive" Width="1.5" PointX="5.25" PointY="360.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PaidVendorBatch" Width="1.5" PointX="26.25" PointY="358.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartCategory" Width="1.5" PointX="17.25" PointY="406.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartCategoryMedia" Width="1.5" PointX="19.5" PointY="391.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartChartRows" Width="1.5" PointX="15.75" PointY="248" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartChartRows_Archive" Width="1.5" PointX="5.25" PointY="424.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartCharts" Width="1.5" PointX="11.5" PointY="400.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartPageCategories" Width="1.5" PointX="24.5" PointY="402.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartPageMedia" Width="1.5" PointX="11.5" PointY="395.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartPages" Width="1.5" PointX="9.25" PointY="400.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartPages_Archive" Width="1.5" PointX="5.25" PointY="430" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartProducts" Width="1.5" PointX="13.5" PointY="246" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartProducts_Archive" Width="1.5" PointX="5.25" PointY="436" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartsShipRate" Width="1.5" PointX="23.75" PointY="26.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PartsShipRate_Archive" Width="1.5" PointX="5.25" PointY="439.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PaymentTechTransLog" Width="1.5" PointX="25.5" PointY="376.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PaymentTechTransLog_Archive" Width="1.5" PointX="5.25" PointY="443" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PaymentTechTransLogCodes" Width="1.5" PointX="27.75" PointY="383" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PayPalProcessed" Width="1.5" PointX="25.75" PointY="25.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PayPalTransLog" Width="1.5" PointX="8.25" PointY="443.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PayPalTransLog_Archive" Width="1.5" PointX="5.25" PointY="452.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PhoneNumbers" Width="1.5" PointX="0.75" PointY="27.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PhoneNumbers_Archive" Width="1.5" PointX="5.25" PointY="457.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Product" Width="1.5" PointX="6" PointY="90.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Product_Archive" Width="1.5" PointX="5.25" PointY="465.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAccessories" Width="1.5" PointX="8.25" PointY="110.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAlternatePartNumbers" Width="1.5" PointX="8.25" PointY="113.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAlternatePartNumbers_Archive" Width="1.5" PointX="5.25" PointY="462.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAttribute" Width="1.5" PointX="3.75" PointY="91.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAttribute_Archive" Width="1.5" PointX="5.25" PointY="485" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAttributeCategory" Width="1.5" PointX="9" PointY="73.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAttributeLinks" Width="1.5" PointX="26.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAttributeProducts" Width="1.5" PointX="11.25" PointY="108" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAttributeProducts_Archive" Width="1.5" PointX="5.25" PointY="489.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAttributeTemplate" Width="1.5" PointX="6.75" PointY="73.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAttributeToCategory" Width="1.5" PointX="11.25" PointY="83.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAvailability" Width="1.5" PointX="8.25" PointY="247" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductAvailability_Archive" Width="1.5" PointX="5.25" PointY="494" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductBlogMentions" Width="1.5" PointX="18" PointY="526" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductBlogMentions_Archive" Width="1.5" PointX="5.25" PointY="497.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductCategory" Width="1.5" PointX="20.25" PointY="415.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductCategory_Archive" Width="1.5" PointX="5.25" PointY="502.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductCategoryMedia" Width="1.5" PointX="22.5" PointY="391.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductCategoryRelated" Width="1.5" PointX="22.5" PointY="418" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductCustomerReviewImages" Width="1.5" PointX="22.5" PointY="346.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductCustomerReviews" Width="1.5" PointX="20.25" PointY="346.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductCustomerReviews_Archive" Width="1.5" PointX="5.25" PointY="510.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductFeedGoogle" Width="1.5" PointX="13.25" PointY="100.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductFeedGoogleAdWordsLabels" Width="1.5" PointX="8" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductGroup" Width="1.5" PointX="3.75" PointY="95.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductGroupSpecifications" Width="1.5" PointX="12.25" PointY="257.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductGroupSpecifications_Backup" Width="1.5" PointX="2.75" PointY="27.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductMedia" Width="1.5" PointX="10.5" PointY="252.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductMedia_Archive" Width="1.5" PointX="5.25" PointY="516.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductPackages" Width="1.5" PointX="8.25" PointY="125.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductPackages_Archive" Width="1.5" PointX="5.25" PointY="520.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductParts" Width="1.5" PointX="8.25" PointY="128.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductPriceChange" Width="1.5" PointX="30.75" PointY="368.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductPriceChange_Archive" Width="1.5" PointX="5.25" PointY="524.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductPriceUpdate" Width="1.5" PointX="8.25" PointY="68.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductPriceUpdateResult" Width="1.5" PointX="10.5" PointY="68.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductReplacements" Width="1.5" PointX="8.25" PointY="130.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductReviewMedia" Width="1.5" PointX="22.5" PointY="395.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductReviewRating" Width="1.5" PointX="22.5" PointY="349.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductReviewRelation" Width="1.5" PointX="22.5" PointY="220" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductReviewRelation_Archive" Width="1.5" PointX="5.25" PointY="528.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductShipMethods" Width="1.5" PointX="14.25" PointY="104.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductShipMethods_Archive" Width="1.5" PointX="5.25" PointY="531.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductShipRate" Width="1.5" PointX="18.75" PointY="27.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductShipRateLevels" Width="1.5" PointX="27.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductShipRateMembers" Width="1.5" PointX="4.75" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductSocialMediaSubmission" Width="1.5" PointX="28.5" PointY="393.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductSocialMediaSubmission_Archive" Width="1.5" PointX="5.25" PointY="535.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductSpecificationDefinitions" Width="1.5" PointX="10" PointY="419.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductSpecificationDefinitions_Backup" Width="1.5" PointX="27.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductSpecificationMedia" Width="1.5" PointX="14.5" PointY="397.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductSpecifications" Width="1.5" PointX="12.25" PointY="419.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductSpecifications_Archive" Width="1.5" PointX="5.25" PointY="539.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductSpecifications_Backup" Width="1.5" PointX="27.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductType" Width="1.5" PointX="22.5" PointY="255.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ProductType_Archive" Width="1.5" PointX="5.25" PointY="544" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PromoProducts" Width="1.5" PointX="8.25" PointY="145.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PromotionProductReplacements" Width="1.5" PointX="8.25" PointY="148.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PromotionsCriteria" Width="1.5" PointX="6" PointY="734.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PromotionsEmail" Width="1.5" PointX="8.25" PointY="447.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PromotionsEmail_Archive" Width="1.5" PointX="5.25" PointY="547.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PromotionsEmailsToSend" Width="1.5" PointX="8.25" PointY="406.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PromotionsEmailsToSend_Archive" Width="1.5" PointX="5.25" PointY="552.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PromotionsLinks" Width="1.5" PointX="8.25" PointY="150.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PromotionsLinksClick" Width="1.5" PointX="10.75" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PromotionsTemplate" Width="1.5" PointX="12.75" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PTAuthorizations" Width="1.5" PointX="15" PointY="349.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PurchasingEvaluation" Width="1.5" PointX="19.5" PointY="402" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_PurchasingEvaluationDetails" Width="1.5" PointX="21.75" PointY="402.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAAnswer" Width="1.5" PointX="14.25" PointY="378" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAAnswer_Archive" Width="1.5" PointX="5.25" PointY="562.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAAnswerMedia" Width="1.5" PointX="22.5" PointY="385.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAAsked" Width="1.5" PointX="14.25" PointY="363.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAAsked_Archive" Width="1.5" PointX="5.25" PointY="573.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAProductGroups" Width="1.5" PointX="13.5" PointY="360" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAProductOptOut" Width="1.5" PointX="8.25" PointY="250.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAProductOptOut_Archive" Width="1.5" PointX="5.25" PointY="578.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAProducts" Width="1.5" PointX="13.5" PointY="357" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAProducts_Archive" Width="1.5" PointX="5.25" PointY="582" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAQuestion" Width="1.5" PointX="8.25" PointY="358" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAQuestion_Archive" Width="1.5" PointX="5.25" PointY="594.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QandAQuestionMedia" Width="1.5" PointX="10.5" PointY="353.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Question" Width="1.5" PointX="12" PointY="116.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QuestionProduct" Width="1.5" PointX="14.25" PointY="107.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QuestionProduct_Archive" Width="1.5" PointX="5.25" PointY="601.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QuestionProductCategory" Width="1.5" PointX="27.75" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QuoteItems" Width="1.5" PointX="15.75" PointY="453.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_QuoteItems_Archive" Width="1.5" PointX="5.25" PointY="605.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Quotes" Width="1.5" PointX="10.5" PointY="449.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Quotes_Archive" Width="1.5" PointX="5.25" PointY="613.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Recommendations" Width="1.5" PointX="14.25" PointY="111.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Recommendations_Archive" Width="1.5" PointX="5.25" PointY="609.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ReportList" Width="1.5" PointX="14.75" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ReturnBatch" Width="1.5" PointX="30.75" PointY="360.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ReturnItems" Width="1.5" PointX="30.75" PointY="363.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ReturnItemsReceived" Width="1.5" PointX="33" PointY="364.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Returns" Width="1.5" PointX="22.5" PointY="363.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SafetyCoverSampleRequest" Width="1.5" PointX="27.75" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SalesReps" Width="1.5" PointX="27.75" PointY="23.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SalesTaxExemption" Width="1.5" PointX="12.75" PointY="267.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SalesTaxExemption_Archive" Width="1.5" PointX="5.25" PointY="624" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SellingChannelActivity" Width="1.5" PointX="30.75" PointY="373.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Session" Width="1.5" PointX="15.75" PointY="448.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Session_Archive" Width="1.5" PointX="5.25" PointY="630.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShipCarriers" Width="1.5" PointX="26.25" PointY="389.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShipMethods" Width="1.5" PointX="8.25" PointY="455.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Shipper" Width="1.5" PointX="25.75" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShipperExpenseDetail" Width="1.5" PointX="22.5" PointY="379.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShipperExpenseDetail_Archive" Width="1.5" PointX="5.25" PointY="636.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShipperServiceCharge" Width="1.5" PointX="27.75" PointY="27.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShippingCosts_CarrierInvoice" Width="1.5" PointX="29.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShippingCosts_FileImports" Width="1.5" PointX="29.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShipToSalesTax" Width="1.5" PointX="29.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShipTracking" Width="1.5" PointX="28.5" PointY="373.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShoppingCartCoupons" Width="1.5" PointX="18" PointY="449.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShoppingCartItem" Width="1.5" PointX="13.25" PointY="249.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShoppingCartItem_Archive" Width="1.5" PointX="5.25" PointY="642.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShoppingCartOrder_Archive" Width="1.5" PointX="29.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_ShoppingSites" Width="1.5" PointX="16.75" PointY="30.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SiteMap" Width="1.5" PointX="18.75" PointY="30.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SiteSearch" Width="1.5" PointX="29.75" PointY="20.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SmartSearch" Width="1.5" PointX="20.75" PointY="30.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SupportAttachmentMedia" Width="1.5" PointX="19.5" PointY="362.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SupportEmails" Width="1.5" PointX="11.25" PointY="361.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SupportResponses" Width="1.5" PointX="29.75" PointY="23.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SupportTicketResponseCategories" Width="1.5" PointX="22.75" PointY="30.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SupportTicketReviewComments" Width="1.5" PointX="29.75" PointY="26.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SupportTickets" Width="1.5" PointX="7.5" PointY="542.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_SupportTickets_Archive" Width="1.5" PointX="5.25" PointY="666" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_TaxRates" Width="1.5" PointX="27.75" PointY="30.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_TrackActivity" Width="1.5" PointX="8.25" PointY="168.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_TrackURL" Width="1.5" PointX="29.75" PointY="29.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_TransLog" Width="1.5" PointX="0.75" PointY="31.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_TransLog_Archive" Width="1.5" PointX="5.25" PointY="676" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_TSA_ProductAndTeams" Width="1.5" PointX="2.75" PointY="31.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_UrlRedirect" Width="1.5" PointX="4.75" PointY="31.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_UrlRedirect_Archive" Width="1.5" PointX="5.25" PointY="680.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_UrlRewrite" Width="1.5" PointX="6.75" PointY="31.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_UrlRewrite_Archive" Width="1.5" PointX="5.25" PointY="684.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_Vendor" Width="1.5" PointX="18" PointY="427.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorBidExpDate" Width="1.5" PointX="8.75" PointY="31.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorBidPriceBeats" Width="1.5" PointX="10.75" PointY="31.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorBidServiceRelation" Width="1.5" PointX="8.25" PointY="173.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorBidServiceRelation_Archive" Width="1.5" PointX="5.25" PointY="689" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorHandlingFeeTotal" Width="1.5" PointX="31.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorHandlingShipMethod" Width="1.5" PointX="31.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorInventory" Width="1.5" PointX="22.5" PointY="434" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorInvoice" Width="1.5" PointX="28.5" PointY="367.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorInvoice_Archive" Width="1.5" PointX="5.25" PointY="692.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorInvoiceItem" Width="1.5" PointX="33.75" PointY="368.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorInvoiceItem_Archive" Width="1.5" PointX="5.25" PointY="698.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorInvoiceReturns" Width="1.5" PointX="31.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorLocations" Width="1.5" PointX="20.25" PointY="437.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorOrderLocations" Width="1.5" PointX="31.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorPriceBid" Width="1.5" PointX="31.75" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorPriceRequest" Width="1.5" PointX="20.25" PointY="264.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorPriceRequest_Archive" Width="1.5" PointX="5.25" PointY="702.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorPriceUpdate" Width="1.5" PointX="20.25" PointY="253.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorPriceUpdateResults" Width="1.5" PointX="22.5" PointY="251.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorProductCategories" Width="1.5" PointX="12.75" PointY="32.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorProductCategoryRank" Width="1.5" PointX="22.5" PointY="427.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorProducts" Width="1.5" PointX="23.25" PointY="268.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorProducts_Archive" Width="1.5" PointX="5.25" PointY="707.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorSalesTax" Width="1.5" PointX="31.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorShipMethods" Width="1.5" PointX="12" PointY="112.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorSupportReplies" Width="1.5" PointX="19.5" PointY="359" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorSupportRequests" Width="1.5" PointX="17.25" PointY="352.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_WmsCarrierService" Width="1.5" PointX="13.5" PointY="464.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_WmsCarrierService_Archive" Width="1.5" PointX="5.25" PointY="711.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_WmsJobLog" Width="1.5" PointX="28.5" PointY="378.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_WmsJobLog_Archive" Width="1.5" PointX="5.25" PointY="717.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_WmsJobs" Width="1.5" PointX="19.5" PointY="383.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_WmsJobs_Archive" Width="1.5" PointX="5.25" PointY="722.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_WmsOrderProduct" Width="1.5" PointX="19.5" PointY="368.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_WmsOrderProduct_Archive" Width="1.5" PointX="5.25" PointY="726.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_WmsProductLocation" Width="1.5" PointX="31.75" PointY="19.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_WmsShipments" Width="1.5" PointX="16.5" PointY="356.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ActivityStatus" Width="1.5" PointX="28.5" PointY="385.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ActivityTypes" Width="1.5" PointX="28.5" PointY="388.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_AddressConfirmTypes" Width="1.5" PointX="12.75" PointY="350.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_AddressType" Width="1.5" PointX="12.75" PointY="412.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_AuditReason" Width="1.5" PointX="15" PointY="388.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_AuthNetResponses" Width="1.5" PointX="31.75" PointY="22.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_AzureContainerTypes" Width="1.5" PointX="6" PointY="410.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_BackorderType" Width="1.5" PointX="3.75" PointY="98.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_BATypes" Width="1.5" PointX="31.75" PointY="25.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_BillingTypes" Width="1.5" PointX="15" PointY="390.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_BingShoppingCategories" Width="1.5" PointX="3.75" PointY="100.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CanadianProvince" Width="1.5" PointX="31.75" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CarrierServiceCode" Width="1.5" PointX="29.75" PointY="32.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CategoryPageTypes" Width="1.5" PointX="18" PointY="418.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CityStateZip" Width="1.5" PointX="31.75" PointY="31.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_Countries" Width="1.5" PointX="10.5" PointY="446.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CountryStateProvinceCode" Width="1.5" PointX="10.5" PointY="462.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CouponCriteriaTypes" Width="1.5" PointX="20.75" PointY="33.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CouponTypes" Width="1.5" PointX="22.75" PointY="33.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CP_BottleneckStatuses" Width="1.5" PointX="24.75" PointY="33.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CP_BottleneckType" Width="1.5" PointX="26.75" PointY="33.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CP_Priorities" Width="1.5" PointX="33.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CP_Statuses" Width="1.5" PointX="33.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_CustomerCreateTypes" Width="1.5" PointX="3.75" PointY="396.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_DateTypes" Width="1.5" PointX="4.75" PointY="34.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_DiyProjectLength" Width="1.5" PointX="6" PointY="340.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_DiyTools" Width="1.5" PointX="8.25" PointY="387.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_eBayAction" Width="1.5" PointX="6" PointY="121.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_EbaySubjects" Width="1.5" PointX="33.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_EmailTransactionTypes" Width="1.5" PointX="9" PointY="392.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_EmailTypes" Width="1.5" PointX="9" PointY="395.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_EmployeeTypes" Width="1.5" PointX="33.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_FileImportStatus" Width="1.5" PointX="9" PointY="346.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_FileImportType" Width="1.5" PointX="9" PointY="390.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_FraudReason" Width="1.5" PointX="6" PointY="652.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_FraudStatus" Width="1.5" PointX="3.75" PointY="398.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_FroogleCategories" Width="1.5" PointX="3.75" PointY="103.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_HowToDifficulty" Width="1.5" PointX="3.75" PointY="273.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_InstallationServices" Width="1.5" PointX="33.75" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_InvoiceStatus" Width="1.5" PointX="15" PointY="394.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_IPPEASettings" Width="1.5" PointX="14.75" PointY="34.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ItemStatus" Width="1.5" PointX="23.25" PointY="360.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_MediaFormatTypes" Width="1.5" PointX="6" PointY="412.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_MediaLocations" Width="1.5" PointX="6" PointY="415.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_MediaResourceTypes" Width="1.5" PointX="8.25" PointY="352.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_MergeCustomerTableActions" Width="1.5" PointX="33.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_MergeProductStatus" Width="1.5" PointX="12" PointY="390.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_NewsletterGroupTypes" Width="1.5" PointX="3.75" PointY="401.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_NexTagCategories" Width="1.5" PointX="3.75" PointY="105.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_NoteTypes" Width="1.5" PointX="16.75" PointY="34.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ObjectStatus" Width="1.5" PointX="33.75" PointY="19.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ObjectType" Width="1.5" PointX="33.75" PointY="22.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_OrderItemCancelReasons" Width="1.5" PointX="23.25" PointY="357.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_OrderSourceTypes" Width="1.5" PointX="33.75" PointY="25.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_OrderStatus" Width="1.5" PointX="6" PointY="655.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PartSectionTypes" Width="1.5" PointX="15" PointY="406.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PaymentTechAfsCodes" Width="1.5" PointX="25.5" PointY="406" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PaymentTechAfsCodeTypes" Width="1.5" PointX="23.25" PointY="406.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PaymentTechAvsCodes" Width="1.5" PointX="33.75" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PaymentTechDavAddressTypeCodes" Width="1.5" PointX="33.75" PointY="31.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PaymentTechDavErrorInfoCodes" Width="1.5" PointX="33.75" PointY="34.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PaymentTechReasonCodes" Width="1.5" PointX="0.75" PointY="35.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PaymentTechReplyTypes" Width="1.5" PointX="23.25" PointY="389.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PhoneType" Width="1.5" PointX="35.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PickUp" Width="1.5" PointX="28.5" PointY="363.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PriceChangeStatus" Width="1.5" PointX="28.5" PointY="358.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ProductAvailability" Width="1.5" PointX="3.75" PointY="108" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ProductDiscontinuedReason" Width="1.5" PointX="3.75" PointY="110.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ProductRelationship" Width="1.5" PointX="12" PointY="119.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ProductSpecificationTypes" Width="1.5" PointX="7.75" PointY="418.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_PurchasingEvaluationResult" Width="1.5" PointX="19.5" PointY="398.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_QandAAnswerStatus" Width="1.5" PointX="12" PointY="393.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_QandAStatus" Width="1.5" PointX="6" PointY="406.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_QuoteSource" Width="1.5" PointX="8.25" PointY="463.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_QuoteStatus" Width="1.5" PointX="8.25" PointY="466" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_RebateMethod" Width="1.5" PointX="3.75" PointY="112.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ReturnReason" Width="1.5" PointX="28.5" PointY="360.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ReviewStatus" Width="1.5" PointX="35.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_RMA_Mistakes" Width="1.5" PointX="20.25" PointY="355.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_RMA_Responsibility" Width="1.5" PointX="20.25" PointY="366.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_RMAStatus" Width="1.5" PointX="20.25" PointY="352.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_SalesTaxExemptionReviewResult" Width="1.5" PointX="10.5" PointY="268.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_SalesTaxExemptionType" Width="1.5" PointX="10.5" PointY="271" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_SellingChannels" Width="1.5" PointX="28.5" PointY="390.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ShippingCosts_CarrierInvoiceStatus" Width="1.5" PointX="35.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ShippingCosts_UPSFees_Category" Width="1.5" PointX="6.75" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ShippingCosts_UPSFees_CategoryDetail" Width="1.5" PointX="8.75" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ShippingCosts_UPSFees_ClassCode" Width="1.5" PointX="35.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ShippingRoute" Width="1.5" PointX="10.5" PointY="465.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ShoppingComCategories" Width="1.5" PointX="3.75" PointY="115.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_ShopzillaCategories" Width="1.5" PointX="3.75" PointY="117.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_SocialMediaType" Width="1.5" PointX="26.25" PointY="409.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_StoreCategories" Width="1.5" PointX="3.75" PointY="120.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_SupportCategories" Width="1.5" PointX="5.25" PointY="731.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_SupportEmailTypes" Width="1.5" PointX="9" PointY="349.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_SupportTicketStatus" Width="1.5" PointX="5.25" PointY="556.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_TransMethod" Width="1.5" PointX="10.75" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_TSATypes" Width="1.5" PointX="35.75" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_UnitOfMeasurement" Width="1.5" PointX="7.75" PointY="421.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_UPS_ChargeTypes" Width="1.5" PointX="35.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_US_States" Width="1.5" PointX="35.75" PointY="19.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_UserVerifiedTypes" Width="1.5" PointX="12.75" PointY="352.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_VendorInventoryStatus" Width="1.5" PointX="18.75" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_VendorInvoiceType" Width="1.5" PointX="26.25" PointY="386.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_VendorPoSendMethod" Width="1.5" PointX="15.75" PointY="434.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_VendorRequiredStatus" Width="1.5" PointX="20.75" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_VendorSupportRequestTypes" Width="1.5" PointX="35.75" PointY="22.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_WmsJobLogStatus" Width="1.5" PointX="26.25" PointY="395.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_WmsJobStatus" Width="1.5" PointX="17.25" PointY="391.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_WmsJobType" Width="1.5" PointX="26.25" PointY="398.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_WmsShippingProcessor" Width="1.5" PointX="11.25" PointY="468.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DECODE_YahooShoppingCategories" Width="1.5" PointX="3.75" PointY="122.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Label" Width="1.5" PointX="22.75" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Layout" Width="1.5" PointX="35.75" PointY="25.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Manufacturer" Width="1.5" PointX="24.75" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.MenuBar" Width="1.5" PointX="26.75" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.MerchantToolsMenuDetail" Width="1.5" PointX="28.75" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.MerchantToolsMenuHeader" Width="1.5" PointX="30.75" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Message" Width="1.5" PointX="35.75" PointY="32.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.ModuleDefinition" Width="1.5" PointX="35.75" PointY="35.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Module" Width="1.5" PointX="2.75" PointY="37.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.ModuleSetting" Width="1.5" PointX="12.75" PointY="37.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Online_DATA_Styles" Width="1.5" PointX="14.75" PointY="37.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.OrderAddress" Width="1.5" PointX="32.75" PointY="37.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.OrderItem" Width="1.5" PointX="37.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.OrderItemsAttribute" Width="1.5" PointX="37.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.OrderPayment" Width="1.5" PointX="37.75" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Orders_Archive" Width="1.5" PointX="37.75" PointY="20.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.OrderTracking" Width="1.5" PointX="37.75" PointY="27.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.PaymentMethod" Width="1.5" PointX="37.75" PointY="31.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.PaymentProcessor" Width="1.5" PointX="37.75" PointY="34.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Portal" Width="1.5" PointX="34.75" PointY="38.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.PriceUpdateGps20110526" Width="1.5" PointX="4.75" PointY="39.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.ProcessorResponse" Width="1.5" PointX="16.75" PointY="39.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.ProductCategory" Width="1.5" PointX="6.75" PointY="39.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.ProductDetail" Width="1.5" PointX="18.75" PointY="39.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Product" Width="1.5" PointX="36.75" PointY="39.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.ProductSpecificationsTemp1" Width="1.5" PointX="38.75" PointY="39.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.QBAccount" Width="1.5" PointX="8.75" PointY="39.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.QBConversion" Width="1.5" PointX="39.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.QBSetting" Width="1.5" PointX="39.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.QBTaxGroup" Width="1.5" PointX="39.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.QBTaxRate" Width="1.5" PointX="10.75" PointY="40.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.QBTemplate" Width="1.5" PointX="39.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Query" Width="1.5" PointX="39.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.RelatedProduct" Width="1.5" PointX="39.75" PointY="21.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Role" Width="1.5" PointX="39.75" PointY="24.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SavedCartItem" Width="1.5" PointX="24.75" PointY="40.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SavedCarts_Archive" Width="1.5" PointX="39.75" PointY="27.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SearchOption" Width="1.5" PointX="26.75" PointY="40.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SearchResult" Width="1.5" PointX="28.75" PointY="40.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SelectCountry" Width="1.5" PointX="39.75" PointY="30.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SelectISOCurrency" Width="1.5" PointX="39.75" PointY="33.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SelectLocal" Width="1.5" PointX="39.75" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SelectState" Width="1.5" PointX="0.75" PointY="41.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPS2ndDay" Width="1.5" PointX="20.75" PointY="41.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPS2ndDayAM" Width="1.5" PointX="40.75" PointY="39.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPS3Day" Width="1.5" PointX="41.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPSCanadaZones" Width="1.5" PointX="2.75" PointY="42.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPSGround" Width="1.5" PointX="41.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPSNextDay" Width="1.5" PointX="4.75" PointY="42.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPSNextDayAM" Width="1.5" PointX="41.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPSNextDaySaver" Width="1.5" PointX="12.75" PointY="42.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPSStandard" Width="1.5" PointX="41.75" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPSSurchargeZips" Width="1.5" PointX="41.75" PointY="18.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPSWorldwideSaver" Width="1.5" PointX="41.75" PointY="21.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPSWWRates" Width="1.5" PointX="41.75" PointY="27.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPSWWZones" Width="1.5" PointX="41.75" PointY="32.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SHIP_UPSZones" Width="1.5" PointX="41.75" PointY="35.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Shipping" Width="1.5" PointX="22.75" PointY="43.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.ShippingCarrier" Width="1.5" PointX="42.75" PointY="39.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.ShoppingCart" Width="1.5" PointX="40.75" PointY="43.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.ShoppingCartItem" Width="1.5" PointX="42.75" PointY="43.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SSFroogleAdmin" Width="1.5" PointX="43.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.SSFroogleLog" Width="1.5" PointX="43.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.sysdiagram" Width="1.5" PointX="43.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Tab" Width="1.5" PointX="5.25" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.TaxRate" Width="1.5" PointX="43.75" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.UserRole" Width="1.5" PointX="14.75" PointY="44.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.User" Width="1.5" PointX="43.75" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.ValueShipping" Width="1.5" PointX="43.75" PointY="22.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Vendor" Width="1.5" PointX="43.75" PointY="25.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.VolumePricing" Width="1.5" PointX="24.75" PointY="44.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.Walkin_Archive" Width="1.5" PointX="43.75" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="IPPEA_TESTModel.IPPEA_DATA_VendorProducts_History" Width="1.5" PointX="43.75" PointY="32.25" IsExpanded="true" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetCustomers_CustomerId_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetCustomers_UserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetCustomers_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetEmployees_EmployeeId_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetEmployees_UserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetManufacturers_ManufacturerId_IPPEA_DATA_Manufacturer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetManufacturers_UserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetUserPermissions_CategoryId_AspNetPermissionCategories_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetUserPermissions_PermissionId_AspNetPermissions_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetUserPermissions_TypeId_AspNetPermissionTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_Tabs_AuthorizedViewPermissionId_AspNetPermissions_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetUserActivityLog_UserActivityId_AspNetUserActivityTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetUserActivityLog_UserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetUserActivityLog_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetUserPermissions_UserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetVendors_UserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationMessage_UserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationUserMentions_UserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductPriceUpdate_UserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswer_UserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SalesTaxExemption_InsertUserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SalesTaxExemption_ReviewUserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SalesTaxExemption_RevokeUserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorPriceUpdate_UserId_AspNetUsers_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetUsers_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_AspNetVendors_VendorId_IPPEA_DATA_Vendor_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IP_DATA_HowToPageComments_CustomerId_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IP_DATA_HowToPageComments_EmployeeId_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IP_DATA_HowToPageComments_HowToPageID_IPPEA_DATA_HowToPage_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IP_DATA_HowToPageComments_LockEmployeeId_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IP_DATA_HowToPageComments_ParentId_IP_DATA_HowToPageComments_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IP_DATA_HowToPageComments_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IP_DATA_HowToPageRatingRelation_HowToPageID_IPPEA_DATA_HowToPage_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IP_DATA_UserNickNames_CustomerNumber_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IP_DATA_UserNickNames_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_AccountsPayment_BillingTypeID_IPPEA_DECODE_BillingTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_AccountsPayment_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_AccountsPayment_InvoiceID_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_AccountsPayment_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_AccountSummary_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_AccountSummary_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Addresses_AddressTypeID_IPPEA_DECODE_AddressType_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_BillingOptions_AddressID_IPPEA_DATA_Addresses_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Addresses_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductFeedGoogle_AdwordsGroupingID_IPPEA_DATA_AdWordsGrouping_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductFeedGoogleAdWordsLabels_AdWordsLabelID_IPPEA_DATA_AdWordsLabel_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ApiLog_OrderFormId_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToPage_ArticleCategoryID_IPPEA_DATA_ArticleCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_AuthNetTransLog_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_AuthNetTransLog_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_BillingOptions_BillTypeID_IPPEA_DECODE_BillingTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_BillingOptions_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_BillingOptions_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_BillMeLaterTransLog_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_BillMeLaterTransLog_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Checkout_AuthenticatedCustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Checkout_BillToCountryCode_IPPEA_DECODE_Countries_CountryCode" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Checkout_BillToStateProvinceCode_IPPEA_DECODE_CountryStateProvinceCode_StateProvinceCode" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Checkout_OrderGroupID_IPPEA_DATA_OrderGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Checkout_QuoteID_IPPEA_DATA_Quotes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Checkout_ShipMethodID_IPPEA_DATA_ShipMethods_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Checkout_ShippingRouteID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Checkout_ShipToCountryCode_IPPEA_DECODE_Countries_CountryCode" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Checkout_ShipToStateProvinceCode_IPPEA_DECODE_CountryStateProvinceCode_StateProvinceCode" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CheckoutItem_CheckoutID_IPPEA_DATA_Checkout_CheckoutID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CheckoutShippingMethod_CheckoutID_IPPEA_DATA_Checkout_CheckoutID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CheckoutItem_CouponCodeID_IPPEA_DATA_CouponCodes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CheckoutItem_CouponID_IPPEA_DATA_Coupons_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CheckoutItem_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CheckoutItemProduct_CheckoutItemID_IPPEA_DATA_CheckoutItem_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CheckoutItem_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CheckoutItemProduct_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CheckoutItemProduct_VendorID_IPPEA_DATA_Vendor_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CheckoutItemProduct_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CheckoutShippingMethod_ShipMethodID_IPPEA_DATA_ShipMethods_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationMessageMedia_ConversationMessage_IPPEA_DATA_ConversationMessage_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationOrderFormHeader_ConversationMessageId_IPPEA_DATA_ConversationMessage_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationOrderGroup_ConversationMessageId_IPPEA_DATA_ConversationMessage_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationProductMentions_ConversationMessageId_IPPEA_DATA_ConversationMessage_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationQandAQuestion_ConversationMessageId_IPPEA_DATA_ConversationMessage_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationReturn_ConversationMessageId_IPPEA_DATA_ConversationMessage_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationSupportTicket_ConversationMessageId_IPPEA_DATA_ConversationMessage_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationUserMentions_ConversationMessageId_IPPEA_DATA_ConversationMessage_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationVendorMentions_ConversationMessageId_IPPEA_DATA_ConversationMessage_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationMessageMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationMessageMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationOrderFormHeader_OrderFormId_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationOrderGroup_OrderGroupId_IPPEA_DATA_OrderGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationProductMentions_ProductId_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationProductMentions_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationQandAQuestion_QuestionId_IPPEA_DATA_QandAQuestion_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationReturn_ReturnId_IPPEA_DATA_Returns_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationSupportTicket_TicketId_IPPEA_DATA_SupportTickets_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ConversationVendorMentions_VendorId_IPPEA_DATA_Vendor_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CouponCodes_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderCoupons_CouponCodeID_IPPEA_DATA_CouponCodes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductBlogMentions_CouponCodeId_IPPEA_DATA_CouponCodes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ShoppingCartCoupons_CouponCodeID_IPPEA_DATA_CouponCodes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CouponCodes_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CouponProducts_CouponID_IPPEA_DATA_Coupons_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CouponProducts_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_CouponProducts_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Coupons_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Coupons_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Customer_CreateTypeId_IPPEA_DECODE_CustomerCreateTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Customer_FraudStatusId_IPPEA_DECODE_FraudStatus_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Customer_LastSubscribedNewsletterGroupTypeId_IPPEA_DECODE_NewsletterGroupTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Documents_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_DoItYourselfStory_CustomerId_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailQueue_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_MarketingList_CustomerId_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderGroup_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OutgoingFaxes_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PaymentTechTransLog_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PayPalTransLog_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAvailability_CustomerId_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductBlogMentions_CustomerId_IPPEA_DATA_Customer_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCustomerReviews_CustomerNumber_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSocialMediaSubmission_CustomerId_IPPEA_DATA_Customer_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PromotionsEmail_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PromotionsEmailsToSend_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswer_CustomerId_IPPEA_DATA_Customer_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAsked_CustomerId_IPPEA_DATA_Customer_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAProductOptOut_CustomerId_IPPEA_DATA_Customer_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAQuestion_CustomerId_IPPEA_DATA_Customer_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Quotes_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SalesTaxExemption_CustomerId_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Session_CustomerId_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ShoppingCartItem_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportTickets_CustomerID_IPPEA_DATA_Customer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Customer_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Employees_DepartmentID_IPPEA_DATA_Departments_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Documents_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_DoItYourselfStory_DifficultyId_IPPEA_DECODE_HowToDifficulty_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_DoItYourselfStory_EmployeeId_IPPEA_DATA_Employees_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_DoItYourselfStory_OriginalProductId_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_DoItYourselfStory_ProjectLengthId_IPPEA_DECODE_DiyProjectLength_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_DoItYourselfStoryProducts_DoItYourselfStoryId_IPPEA_DATA_DoItYourselfStory_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_DoItYourselfStoryRatings_StoryID_IPPEA_DATA_DoItYourselfStory_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_DoItYourselfTools_StoryId_IPPEA_DATA_DoItYourselfStory_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_DoItYourselfStory_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_DoItYourselfStoryProducts_ProductId_IPPEA_DATA_Product_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_DoItYourselfTools_ToolId_IPPEA_DECODE_DiyTools_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_eBayListings_eBayActionID_IPPEA_DECODE_eBayAction_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_eBayListings_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_eBayListings_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_eBayLogs_eBayActionID_IPPEA_DECODE_eBayAction_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_eBayLogs_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_eBayLogs_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailAddress_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailAttachments_EmailQueueID_IPPEA_DATA_EmailQueue_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailAttachments_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailAttachmentsLog_EmailLogID_IPPEA_DATA_EmailLog_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailAttachmentsLog_MediaId_IPPEA_DATA_Media_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_EmailTransactionTypeID_IPPEA_DECODE_EmailTransactionTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_EmailTypeID_IPPEA_DECODE_EmailTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_EmployeeId_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_ManufacturerID_IPPEA_DATA_Manufacturer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_MediaID_IPPEA_DATA_Media_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_OrderFormID_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_OrderGroupID_IPPEA_DATA_OrderGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_OriginalEmailLogId_IPPEA_DATA_EmailLog_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_QuoteId_IPPEA_DATA_Quotes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_VendorID_IPPEA_DATA_Vendor_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailQueue_OriginalEmailLogId_IPPEA_DATA_EmailLog_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailLog_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailQueue_EmailTransactionTypeID_IPPEA_DECODE_EmailTransactionTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailQueue_EmailTypeID_IPPEA_DECODE_EmailTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailQueue_EmployeeId_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailQueue_ManufacturerID_IPPEA_DATA_Manufacturer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailQueue_OrderFormID_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailQueue_OrderGroupID_IPPEA_DATA_OrderGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailQueue_QuoteId_IPPEA_DATA_Quotes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailQueue_VendorID_IPPEA_DATA_Vendor_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_EmailQueue_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_FileImports_EmployeeId_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToInformation_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToPage_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToPageProductRelation_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ManualProduct_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_MarketingList_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_MergeProduct_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_MergeProduct_EmployeedId_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_MergeProductLog_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_MergeProductLog_EmployeedId_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Notes_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderAssignment_AssignedToEmployeeId_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderAssignment_CreatedByEmployeeId_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_AuditInitiatedBy_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_AuditResolvedBy_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormLineItem_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderGroup_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OutgoingFaxes_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartChartRows_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartPages_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartProducts_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartsShipRate_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PaymentTechTransLog_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PayPalTransLog_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PhoneNumbers_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAlternatePartNumbers_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAttribute_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAttributeProducts_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAvailability_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductBlogMentions_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCategory_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCustomerReviews_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductMedia_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductPackages_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductPriceChange_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductReviewRelation_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductShipMethods_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSocialMediaSubmission_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSpecifications_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductType_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PromotionsEmail_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PromotionsEmailsToSend_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswer_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswer_EmployeeId_IPPEA_DATA_Employees_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAsked_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAsked_QuestionSentById_IPPEA_DATA_Employees_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAProductOptOut_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAProducts_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAQuestion_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAQuestion_LockEmployeeId_IPPEA_DATA_Employees_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAQuestion_SentToCustomerByEmployeeId_IPPEA_DATA_Employees_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAQuestion_TaggedById_IPPEA_DATA_Employees_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QuestionProduct_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QuoteItems_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Quotes_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Quotes_CreatedBy_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Recommendations_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SalesTaxExemption_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Session_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ShipperExpenseDetail_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ShoppingCartItem_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportEmails_ServiceRepID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportTickets_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportTickets_AssignedBy_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportTickets_ClosedBy_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportTickets_ServiceRepID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportTickets_TaggedById_IPPEA_DATA_Employees_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_TransLog_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_UrlRedirect_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_UrlRewrite_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorBidServiceRelation_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorInvoice_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorInvoiceItem_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorPriceRequest_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorProducts_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsCarrierService_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsJobLog_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsJobs_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsOrderProduct_Archive_ArchiveUserID_IPPEA_DATA_Employees_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DECODE_SupportCategories_AssignedEmployeeId_IPPEA_DATA_Employees_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_FileImports_ImportType_IPPEA_DECODE_FileImportType_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_FileImports_StatusId_IPPEA_DECODE_FileImportStatus_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_FreightQuoteRequest_OrderGroupID_IPPEA_DATA_OrderGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToInformation_HowToPageID_IPPEA_DATA_HowToPage_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToInformationMedia_HowToInformationId_IPPEA_DATA_HowToInformation_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToInformationMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToInformationMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToPage_DifficultyID_IPPEA_DECODE_HowToDifficulty_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToPageMedia_HowToPageId_IPPEA_DATA_HowToPage_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToPageProductRelation_HowToPageID_IPPEA_DATA_HowToPage_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToPageMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToPageMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_HowToPageProductRelation_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ManualProduct_ManualID_IPPEA_DATA_Manual_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ManualProduct_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartPages_ManufacturerID_IPPEA_DATA_Manufacturer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_ManufacturerID_IPPEA_DATA_Manufacturer_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswer_ManufacturerId_IPPEA_DATA_Manufacturer_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAsked_ManufacturerId_IPPEA_DATA_Manufacturer_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_MarketingList_LastNewsletterGroupTypeId_IPPEA_DECODE_NewsletterGroupTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Media_ContainerTypeId_IPPEA_DECODE_AzureContainerTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Media_MediaFormatTypeId_IPPEA_DECODE_MediaFormatTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Media_MediaLocationId_IPPEA_DECODE_MediaLocations_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PaidVendorBatch_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartCategoryMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartPageMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCategoryMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductReviewMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSpecificationMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswerMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAQuestionMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SalesTaxExemption_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportAttachmentMedia_MediaId_IPPEA_DATA_Media_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_MergeProduct_KeepProductId_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_MergeProduct_MergeProductStatusId_IPPEA_DECODE_MergeProductStatus_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_MergeProductLog_KeepProductId_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_MergeProductLog_MergeProductStatusId_IPPEA_DECODE_MergeProductStatus_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OnlineUserCustomer_Archive_OnlineUserID_IPPEA_DATA_OnlineUser_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderAssignment_OrderFormId_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsOrderProduct_WmsOrderId_IPPEA_DATA_OrderAssignment_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsShipments_OrderAssignmentId_IPPEA_DATA_OrderAssignment_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderCoupons_OrderGroupID_IPPEA_DATA_OrderGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderCustomerReviewStatus_OrderGroupID_IPPEA_DATA_OrderGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_AuditReasonID_IPPEA_DECODE_AuditReason_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_BillingTypeID_IPPEA_DECODE_BillingTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_InvoiceStatusID_IPPEA_DECODE_InvoiceStatus_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_LastPurchasingEvaluationId_IPPEA_DATA_PurchasingEvaluation_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_OrderGroupID_IPPEA_DATA_OrderGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_OrderStatusID_IPPEA_DECODE_OrderStatus_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_PTAuthorizationID_IPPEA_DATA_PTAuthorizations_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_ShipMethodID_IPPEA_DATA_ShipMethods_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormHeader_VendorID_IPPEA_DATA_Vendor_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormLineItem_OrderFormID_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PaymentTechTransLog_OrderFormID_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PurchasingEvaluation_OrderFormHeaderId_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Returns_OrderFormID_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ShipperExpenseDetail_OrderFormID_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ShipTracking_OrderFormID_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorInvoice_OrderFormID_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsJobLog_OrderFormId_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsJobs_OrderFormId_IPPEA_DATA_OrderFormHeader_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormLineItem_ItemStatusID_IPPEA_DECODE_ItemStatus_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormLineItem_OrderCancelReasonId_IPPEA_DECODE_OrderItemCancelReasons_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormLineItem_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderFormLineItem_ShipMethodID_IPPEA_DATA_ShipMethods_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductPriceChange_OrderFormLineItemID_IPPEA_DATA_OrderFormLineItem_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ReturnItems_OrderFormLineItemID_IPPEA_DATA_OrderFormLineItem_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorInvoiceItem_OrderFormLineItemID_IPPEA_DATA_OrderFormLineItem_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderGroup_FraudReasonId_IPPEA_DECODE_FraudReason_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_OrderGroup_OrderStatusID_IPPEA_DECODE_OrderStatus_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductBlogMentions_OrderGroupId_IPPEA_DATA_OrderGroup_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSocialMediaSubmission_OrderGroupId_IPPEA_DATA_OrderGroup_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PTAuthorizations_OrderGroupID_IPPEA_DATA_OrderGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Quotes_OrderGroupId_IPPEA_DATA_OrderGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PaidVendorBatch_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorInvoice_BatchNum_IPPEA_DATA_PaidVendorBatch_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartCategory_ParentID_IPPEA_DATA_PartCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartCategory_SectionID_IPPEA_DECODE_PartSectionTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartCategoryMedia_PartCategoryId_IPPEA_DATA_PartCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartPageCategories_PartCategoryID_IPPEA_DATA_PartCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCategory_RelatedPartCategoryID_IPPEA_DATA_PartCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartCategoryMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartChartRows_PartChartID_IPPEA_DATA_PartCharts_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartChartRows_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartCharts_IPPEA_DATA_PartPages" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartPageCategories_PartPageID_IPPEA_DATA_PartPages_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartPageCategories_SectionID_IPPEA_DECODE_PartSectionTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartPageMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartPageMedia_PartPagesId_IPPEA_DATA_PartPages_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartProducts_IPPEA_DATA_PartPages" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PartProducts_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PaymentTechTransLog_BillingTypeID_IPPEA_DECODE_BillingTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PaymentTechTransLog_ReplyType_IPPEA_DECODE_PaymentTechReplyTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PaymentTechTransLogCodes_PaymentTechTransLogID_IPPEA_DATA_PaymentTechTransLog_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PaymentTechTransLogCodes_PaymentTechAfsCodeID_IPPEA_DECODE_PaymentTechAfsCodes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_AvailabilityStatus_IPPEA_DECODE_ProductAvailability_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_BackorderTypeID_IPPEA_DECODE_BackorderType" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_BingShoppingCategoryID_IPPEA_DECODE_BingShoppingCategories" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_DiscontinuedReasonId_IPPEA_DECODE_ProductDiscontinuedReason_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_FroogleCategoryID_IPPEA_DECODE_FroogleCategories_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_NexTagCategoryID_IPPEA_DECODE_NexTagCategories_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_ProductAttributeID_IPPEA_DATA_ProductAttribute_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_ProductGroupID_IPPEA_DATA_ProductGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_RebateMethodID_IPPEA_DECODE_RebateMethod_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_ShoppingComCategoryID_IPPEA_DECODE_ShoppingComCategories_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_ShopzillaCategoryID_IPPEA_DECODE_ShopzillaCategories_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_StoreCategoryID_IPPEA_DECODE_StoreCategories_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Product_YahooShoppingCategoryID_IPPEA_DECODE_YahooShoppingCategories_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAccessories_ProductId_IPPEA_DATA_Product_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAccessories_RelatedProductId_IPPEA_DATA_Product_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAlternatePartNumbers_IPPEA_DATA_Product_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAttributeProducts_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAvailability_ProductId_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductFeedGoogle_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductMedia_ProductId_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductPackages_IPPEA_DATA_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductPackages_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductParts_ProductId_IPPEA_DATA_Product_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductParts_RelatedProductId_IPPEA_DATA_Product_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductReplacements_ProductId_IPPEA_DATA_Product_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductReplacements_RelatedProductId_IPPEA_DATA_Product_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductReviewRelation_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductShipMethods_IPPEA_DATA_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSocialMediaSubmission_ProductId_IPPEA_DATA_Product_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSpecifications_ProductId_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductType_IPPEA_DATA_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PromoProducts_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PromotionProductReplacements_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PromotionsLinks_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAProductOptOut_ProductId_IPPEA_DATA_Product_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAProducts_ProductId_IPPEA_DATA_Product_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAQuestion_OriginalProductId_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QuestionProduct_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QuoteItems_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Recommendations_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Recommendations_RecommendedProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ShoppingCartItem_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_TrackActivity_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorBidServiceRelation_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorPriceRequest_ProductID_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorProducts_IPPEA_DATA_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsJobLog_ProductId_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsJobs_ProductId_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsOrderProduct_ProductId_IPPEA_DATA_Product_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAttributeProducts_ProductAttributeID_IPPEA_DATA_ProductAttribute_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAttributeToCategory_ProductAttributeID_IPPEA_DATA_ProductAttribute_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAttributeCategory_TemplateID_IPPEA_DATA_ProductAttributeTemplate_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAttributeProducts_ProductAttributeCategoryID_IPPEA_DATA_ProductAttributeCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductAttributeToCategory_ProductAttributeCategoryID_IPPEA_DATA_ProductAttributeCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCategory_PageTypeId_IPPEA_DECODE_CategoryPageTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCategory_ParentID_IPPEA_DATA_ProductCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCategoryMedia_ProductCategoryId_IPPEA_DATA_ProductCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCategoryRelated_CategoryID_IPPEA_DATA_ProductCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCategoryRelated_RelatedCategoryID_IPPEA_DATA_ProductCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductType_IPPEA_DATA_ProductCategory" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorProductCategoryRank_ProductCategoryId_IPPEA_DATA_ProductCategory_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCategoryMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductCustomerReviewImages_IPPEA_DATA_ProductCustomerReviews" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductReviewMedia_ProductReviewID_IPPEA_DATA_ProductCustomerReviews_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductReviewRating_ProductReviewID_IPPEA_DATA_ProductCustomerReviews_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductReviewRelation_ReviewID_IPPEA_DATA_ProductCustomerReviews_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductGroupSpecifications_ProductGroupID_IPPEA_DATA_ProductGroup_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAProductGroups_ProductGroupId_IPPEA_DATA_ProductGroup_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductGroupSpecifications_ProductSpecificationDefinitionID_IPPEA_DATA_ProductSpecificationDefinitions_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductPriceChange_Status_IPPEA_DECODE_IPPEA_DECODE_PriceChangeStatus_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductPriceUpdateResult_IPPEA_DATA_ProductPriceUpdate" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductReviewMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductShipMethods_IPPEA_DATA_VendorShipMethods" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSocialMediaSubmission_SocialMediaTypeID_IPPEA_DECODE_SocialMediaType_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSpecificationDefinitions_ProductSpecificationTypeID_IPPEA_DECODE_ProductSpecificationTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSpecificationDefinitions_UnitOfMeasurementID_IPPEA_DECODE_UnitOfMeasurement_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSpecifications_ProductSpecificationDefinitionID_IPPEA_DATA_ProductSpecificationDefinitions_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSpecificationMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ProductSpecificationMedia_ProductSpecificationsId_IPPEA_DATA_ProductSpecifications_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PromotionsEmailsToSend_IPPEA_DATA_PromotionsCriteria" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PTAuthorizations_AddressConfirmTypeId_IPPEA_DECODE_AddressConfirmTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PTAuthorizations_BillingTypeID_IPPEA_DECODE_BillingTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PTAuthorizations_UserVerifyTypeId_IPPEA_DECODE_UserVerifiedTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PurchasingEvaluationDetails_PurchasingEvaluationId_IPPEA_DATA_PurchasingEvaluation_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_PurchasingEvaluationDetails_ResultId_IPPEA_DECODE_PurchasingEvaluationResult_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswer_ParentId_IPPEA_DATA_QandAAnswer_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswer_QandAAnswerStatusId_IPPEA_DECODE_QandAAnswerStatus_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswer_QandAQuestionId_IPPEA_DATA_QandAQuestion_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswer_VendorId_IPPEA_DATA_Vendor_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswerMedia_QandAAnswerId_IPPEA_DATA_QandAAnswer_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAnswerMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAsked_QuestionId_IPPEA_DATA_QandAQuestion_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAAsked_VendorId_IPPEA_DATA_Vendor_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAProductGroups_QandAQuestionId_IPPEA_DATA_QandAQuestion_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAProducts_QandAQuestionId_IPPEA_DATA_QandAQuestion_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAQuestion_QandAStatusId_IPPEA_DECODE_QandAStatus_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAQuestion_SupportTicketId_IPPEA_DATA_SupportTickets_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAQuestionMedia_QandAQuestionId_IPPEA_DATA_QandAQuestion_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Quotes_QuestionId_IPPEA_DATA_QandAQuestion_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QandAQuestionMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QuestionProduct_IPPEA_DATA_Question_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QuoteItems_QuoteID_IPPEA_DATA_Quotes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_QuoteItems_ShipMethodID_IPPEA_DATA_ShipMethods_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Quotes_ShipMethodID_IPPEA_DATA_ShipMethods_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Quotes_SourceId_IPPEA_DECODE_QuoteSource_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Quotes_StatusID_IPPEA_DECODE_QuoteStatus_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Quotes_SupportTicketId_IPPEA_DATA_SupportTickets_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Session_QuoteId_IPPEA_DATA_Quotes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Recommendations_ProductRelationshipID_IPPEA_DECODE_ProductRelationship_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ReturnItemsReceived_BatchID_IPPEA_DATA_ReturnBatch_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ReturnItems_PickUpID_IPPEA_DECODE_PickUp_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ReturnItems_ReturnID_IPPEA_DATA_Returns_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ReturnItems_ReturnReasonID_IPPEA_DECODE_ReturnReason_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ReturnItemsReceived_ReturnItemsID_IPPEA_DATA_ReturnItems_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Returns_MistakeID_IPPEA_DECODE_RMA_Mistakes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Returns_ResponsibilityID_IPPEA_DECODE_RMA_Responsibility_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Returns_RMAStatusID_IPPEA_DECODE_RMAStatus_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SalesTaxExemption_ExemptionTypeId_IPPEA_DECODE_SalesTaxExemptionType_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SalesTaxExemption_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SalesTaxExemption_ReviewResultId_IPPEA_DECODE_SalesTaxExemptionReviewResult_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SalesTaxExemption_StateProvinceCode_IPPEA_DECODE_CountryStateProvinceCode_StateProvinceCode" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SellingChannelActivity_ActivityStatusId_IPPEA_DECODE_ActivityStatus_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SellingChannelActivity_ActivityTypeId_IPPEA_DECODE_ActivityTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SellingChannelActivity_SellingChannelId_IPPEA_DECODE_SellingChannels_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SellingChannelActivity_ShipTrackingId_IPPEA_DATA_ShipTracking_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ShipperExpenseDetail_CarrierID_IPPEA_DATA_ShipCarriers_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_ShipTracking_CarrierID_IPPEA_DATA_ShipCarriers_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorShipMethods_IPPEA_DATA_ShipMethods" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsCarrierService_ShipMethodId_IPPEA_DATA_ShipMethods_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportAttachmentMedia_MediaResourceTypeId_IPPEA_DECODE_MediaResourcTypes_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportAttachmentMedia_SupportEmailId_IPPEA_DATA_SupportEmails_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportEmails_EmailType_IPPEA_DECODE_SupportEmailTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportEmails_TicketID_IPPEA_DATA_SupportTickets_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorSupportReplies_SupportEmailID_IPPEA_DATA_SupportEmails_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportTickets_CategoryID_IPPEA_DECODE_SupportCategories_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_SupportTickets_TicketStatusID_IPPEA_DECODE_SupportTicketStatus_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_Vendor_SendMethodId_IPPEA_DECODE_VendorPoSendMethod_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorInventory_VendorID_IPPEA_DATA_Vendor_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorLocations_IPPEA_DATA_Vendor" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorPriceRequest_VendorID_IPPEA_DATA_Vendor_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorPriceUpdate_IPPEA_DATA_Vendor" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorProductCategoryRank_VendorId_IPPEA_DATA_Vendor_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorProducts_IPPEA_DATA_Vendor" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorShipMethods_IPPEA_DATA_Vendor" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorInventory_VendorLocationID_IPPEA_DATA_VendorLocations_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorInvoice_InvoiceTypeID_IPPEA_DECODE_VendorInvoiceType_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorInvoiceItem_VendorInvoiceID_IPPEA_DATA_VendorInvoice_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorPriceUpdateResults_IPPEA_DATA_VendorPriceUpdate" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_VendorSupportReplies_SupportRequestID_IPPEA_DATA_VendorSupportRequests_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsCarrierService_ShippingProcessorId_IPPEA_DECODE_WmsShippingProcessor_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsJobLog_JobTypeId_IPPEA_DECODE_WmsJobType_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsJobLog_StatusId_IPPEA_DECODE_WmsJobLogStatus_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsJobs_JobTypeId_IPPEA_DECODE_WmsJobType_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DATA_WmsJobs_StatusId_IPPEA_DECODE_WmsJobStatus_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DECODE_CountryStateProvinceCode_CountryCode_IPPEA_DECODE_Countries_CountryCode" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DECODE_EmailTypes_EmailTransactionTypeID_IPPEA_DECODE_EmailTransactionTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DECODE_FraudReason_FraudStatusId_IPPEA_DECODE_FraudStatus_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.FK_IPPEA_DECODE_PaymentTechAfsCodes_PaymentTechAfsCodeTypeID_IPPEA_DECODE_PaymentTechAfsCodeTypes_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="IPPEA_TESTModel.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

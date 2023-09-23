@@ -1,0 +1,12 @@
+E:\InyoPoolsRestAPIS\InyoPools.Core\bin\Debug\net7.0\InyoPools.Core.deps.json
+E:\InyoPoolsRestAPIS\InyoPools.Core\bin\Debug\net7.0\InyoPools.Core.dll
+E:\InyoPoolsRestAPIS\InyoPools.Core\bin\Debug\net7.0\InyoPools.Core.pdb
+E:\InyoPoolsRestAPIS\InyoPools.Core\obj\Debug\net7.0\InyoPools.Core.csproj.AssemblyReference.cache
+E:\InyoPoolsRestAPIS\InyoPools.Core\obj\Debug\net7.0\InyoPools.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\InyoPoolsRestAPIS\InyoPools.Core\obj\Debug\net7.0\InyoPools.Core.AssemblyInfoInputs.cache
+E:\InyoPoolsRestAPIS\InyoPools.Core\obj\Debug\net7.0\InyoPools.Core.AssemblyInfo.cs
+E:\InyoPoolsRestAPIS\InyoPools.Core\obj\Debug\net7.0\InyoPools.Core.csproj.CoreCompileInputs.cache
+E:\InyoPoolsRestAPIS\InyoPools.Core\obj\Debug\net7.0\InyoPools.Core.dll
+E:\InyoPoolsRestAPIS\InyoPools.Core\obj\Debug\net7.0\refint\InyoPools.Core.dll
+E:\InyoPoolsRestAPIS\InyoPools.Core\obj\Debug\net7.0\InyoPools.Core.pdb
+E:\InyoPoolsRestAPIS\InyoPools.Core\obj\Debug\net7.0\ref\InyoPools.Core.dll
